@@ -3,6 +3,7 @@
 # Author: Thomas Vigneron <tvigneron>
 # Additions: Madhukar Krishnarao <madhukark>
 # Script to move GM objects under a specific location to the default one.
+# The script scale is up to 2,000 objects maximum (Groups, DFW-Policy, DFW-Rules) 
 # This script is neither supported nor endorsed by VMware but meant as an example
 
 import json
